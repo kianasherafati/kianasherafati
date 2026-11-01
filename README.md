@@ -47,6 +47,12 @@ Extensions to the xv6 RISC-V teaching operating system, including thread-related
 
 `C` `RISC-V` `Operating systems`
 
+## More AI coursework
+
+- **[AI Fundamentals](https://github.com/kianasherafati/ai-fundamentals):** four course projects covering Sokoban search, crossword constraints, Isolation game agents, MDPs and LunarLander Q-learning, and Bayesian inference.
+- **[FER2013 Emotion Recognition](https://github.com/kianasherafati/fer2013-emotion-recognition-cnn):** CNN experiment notebooks and convolution/pooling coursework extending the MyTorch learning framework.
+- **[Tetris with a Genetic Algorithm](https://github.com/kianasherafati/tetris-evolution-genetic-algorithm):** evolutionary search with selection, crossover, mutation, and a visual game environment.
+
 ## Technical toolkit
 
 - **Languages:** Python, SQL / T-SQL, Java, C, C++, Kotlin, JavaScript
