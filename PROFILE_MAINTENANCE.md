@@ -23,8 +23,9 @@ Use GitHub's native typography and code-style technology labels, which adapt to 
 
 1. erp-text2sql-rag-portfolio
 2. AUJava-Transpiler
-3. mytorch-from-scratch
-4. PowerBI-Employee-Analysis
-5. xv6-enhancements
+3. ai-fundamentals
+4. mytorch-from-scratch
+5. PowerBI-Employee-Analysis
+6. xv6-enhancements
 
-On your GitHub profile, select **Customize your pins**, choose these five repositories, and save. Arrange the cards in this order using their drag handles (or the keyboard controls offered by GitHub).
+On your GitHub profile, select **Customize your pins**, choose these six repositories, and save. Arrange the cards in this order using their drag handles (or the keyboard controls offered by GitHub).
