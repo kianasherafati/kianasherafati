@@ -1,67 +1,38 @@
 # Kiana Sherafati
 
-**Computer Engineering student · Software engineering, data systems & applied AI**
+**Computer Engineering graduate · Software engineering, data systems & applied AI**
 
-I build software that connects practical questions with useful data.
-
-[Portfolio](https://kianasherafati.github.io) · [LinkedIn](https://www.linkedin.com/in/kiana-sherafati-23b424323/) · [Email](mailto:kiana.sherafati@aut.ac.ir)
+[Academic CV](https://kianasherafati.github.io/Academic_CV.pdf) · [Portfolio](https://kianasherafati.github.io) · [LinkedIn](https://www.linkedin.com/in/kiana-sherafati-23b424323/) · [Email](mailto:kiana.sherafati@gmail.com)
 
 <!-- PORTRAIT_INSERT: See PROFILE_MAINTENANCE.md before adding assets/profile.jpg. -->
 
 ## About me
 
-I'm a B.Sc. student in Computer Engineering at **Amirkabir University of Technology (Tehran Polytechnic)**. I enjoy understanding how systems work, from operating system internals to the data behind business workflows.
+**B.Sc. in Computer Engineering**, Amirkabir University of Technology (Tehran Polytechnic), 2022–2026 · Final GPA **17.81/20**
 
-As an ERP Support and Configuration Specialist, I work with business databases, reporting, and enterprise workflows using **SQL Server, T-SQL, SSRS, and Power BI**. That experience shapes the problems I choose to build for: making information easier to access and software more useful in practice. I've also served as a Software Engineering teaching assistant.
+My interests are in software engineering, databases, and applied AI. As a part-time ERP Specialist at Green Dataware (Sabz Dadeh), I work with SQL Server, T-SQL, and business reporting. I’ve also served as a teaching assistant at Amirkabir, including as Head Teaching Assistant for Business Intelligence and Analysis.
 
-## What I'm working on
+## Undergraduate research
 
-My bachelor's project explores **natural language to SQL for ERP databases using retrieval-augmented generation**. I'm working on schema retrieval, semantic search, SQL generation, and evaluation.
+**Natural Language to SQL Query Generation for ERP Systems Using Retrieval-Augmented Generation (RAG)**  
+Successfully defended in 2026.
 
-The [public project showcase](https://github.com/kianasherafati/erp-text2sql-rag-portfolio) presents reusable components and a synthetic Streamlit demo. It covers hybrid retrieval, foreign-key expansion, reranking, and SQL validation without publishing business schemas or data.
+I built a pipeline that retrieves and reranks database schema using hybrid search and foreign-key relationships, then uses the selected context to generate and validate T-SQL for ERP reporting. In the thesis experiments, reranking raised **macro schema Recall@20 from 75.27% to 80.77%**, measured as the mean share of required tables retrieved in the top 20 per question.
+
+[Public repository and synthetic Streamlit demo](https://github.com/kianasherafati/erp-text2sql-rag-portfolio)
 
 ## Selected projects
 
-### [ERP Text-to-SQL with RAG](https://github.com/kianasherafati/erp-text2sql-rag-portfolio)
-Natural-language reporting over relational schemas, combining retrieval, LLM prompting, and T-SQL validation. A practical connection between my ERP experience and applied AI.
-
-`Python` `SQL Server` `RAG` `Streamlit`
-
-### [AUJava to C Transpiler](https://github.com/kianasherafati/AUJava-Transpiler)
-A three-pass compilation pipeline with ANTLR parsing, semantic checks, and C code generation. Demonstrates work with language design, scoping, and object-oriented program representation.
-
-`Java` `ANTLR4` `C` `Maven`
-
-### [MyTorch from Scratch](https://github.com/kianasherafati/mytorch-from-scratch)
-An educational NumPy-based neural network framework with tensor differentiation, dense layers, and optimizers. Explores the mechanics behind model training; some layer components remain exercises.
-
-`Python` `NumPy` `Automatic differentiation`
-
-### [Employee Analytics Dashboard](https://github.com/kianasherafati/PowerBI-Employee-Analysis)
-Power BI analysis of employee attrition, salary distributions, and hiring trends, supported by a preprocessing notebook and project report.
-
-`Power BI` `Data preparation` `Analytics`
-
-### [xv6 Enhancements](https://github.com/kianasherafati/xv6-enhancements)
-Extensions to the xv6 RISC-V teaching operating system, including thread-related system calls, process and trap reporting, and CPU quota interfaces.
-
-`C` `RISC-V` `Operating systems`
-
-## More AI coursework
-
-- **[AI Fundamentals](https://github.com/kianasherafati/ai-fundamentals):** four course projects covering Sokoban search, crossword constraints, Isolation game agents, MDPs and LunarLander Q-learning, and Bayesian inference.
-- **[FER2013 Emotion Recognition](https://github.com/kianasherafati/fer2013-emotion-recognition-cnn):** CNN experiment notebooks and convolution/pooling coursework extending the MyTorch learning framework.
-- **[Tetris with a Genetic Algorithm](https://github.com/kianasherafati/tetris-evolution-genetic-algorithm):** evolutionary search with selection, crossover, mutation, and a visual game environment.
+- **[AUJava-to-C Compiler](https://github.com/kianasherafati/AUJava-Transpiler)** — Three-pass compiler with ANTLR4 parsing, semantic analysis, and C code generation. Implements dynamic dispatch and includes 27 test cases.
+- **[MyTorch from Scratch](https://github.com/kianasherafati/mytorch-from-scratch)** — Educational NumPy neural network framework with tensor-based automatic differentiation, dense layers, and optimizers.
+- **[AI Fundamentals](https://github.com/kianasherafati/ai-fundamentals)** — Four coursework projects with reports on search, constraint solving, reinforcement learning, and Bayesian inference.
+- **[xv6 Enhancements](https://github.com/kianasherafati/xv6-enhancements)** — Extensions to the xv6 RISC-V teaching kernel for thread management, process and trap reporting, and CPU quotas.
+- **[Employee Analytics Dashboard](https://github.com/kianasherafati/PowerBI-Employee-Analysis)** — Power BI dashboard on employee attrition, salary distributions, and hiring trends, with a preprocessing notebook and project report.
+- **[Hipka Music](https://github.com/kianasherafati/Hipka_Music)** — Collaborative Android project using Kotlin and Jetpack Compose, with Audius discovery, Media3 playback, and a local library backed by Room.
 
 ## Technical toolkit
 
-- **Languages:** Python, SQL / T-SQL, Java, C, C++, Kotlin, JavaScript
-- **Data & reporting:** Microsoft SQL Server, Power BI, SSRS
-- **Applied AI:** NumPy, PyTorch, SentenceTransformers, FAISS
-- **Development:** Git / GitHub, Streamlit, ANTLR4, Maven; Android development with Kotlin
-
-## Connect
-
-I'm interested in software engineering, data systems, backend development, and practical applications of AI. I welcome conversations about projects, graduate study, and engineering opportunities.
-
-[Portfolio](https://kianasherafati.github.io) · [LinkedIn](https://www.linkedin.com/in/kiana-sherafati-23b424323/) · [Academic email](mailto:kiana.sherafati@aut.ac.ir)
+- **Languages** · Python, SQL/T-SQL, Java, C/C++, Kotlin
+- **Data and reporting** · SQL Server, SSRS, Power BI
+- **Machine learning and retrieval** · NumPy, PyTorch, SentenceTransformers, FAISS
+- **Development** · Git, Streamlit, ANTLR4, Jetpack Compose
